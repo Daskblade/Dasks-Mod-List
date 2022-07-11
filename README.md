@@ -1,5 +1,3 @@
-Minecraft Resource Pack
-
 <!--header-->
 ```
                                             __  _______  ____     __    _______________
